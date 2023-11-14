@@ -30,6 +30,7 @@
   "dependencies": {
     "@vicons/antd": "^0.10.0",
     "@vicons/ionicons5": "^0.10.0",
+    "@vue/runtime-core": "^3.3.8",
     "@vueup/vue-quill": "^1.1.0",
     "@vueuse/core": "^5.3.0",
     "axios": "^0.21.4",
